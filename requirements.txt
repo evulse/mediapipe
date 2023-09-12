@@ -4,5 +4,5 @@ flatbuffers>=2.0
 matplotlib
 numpy
 opencv-contrib-python
-protobuf>=3.11,<4
+protobuf>=3.11
 sounddevice>=0.4.4
